@@ -1,0 +1,4 @@
+rootProject.name = 'ProjetEC'
+include 'adapters'
+include 'EC-core'
+
